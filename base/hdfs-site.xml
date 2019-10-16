@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+    <configuration>
+        <property>
+            <name>fs.s3a.access.key</name>
+            <value>AKIAWBRFSGKL6DS3XGME</value>
+        </property>
+        <property>
+            <name>fs.s3a.secret.key</name>
+            <value>QtBZlG3wH0NeoU1fZKib0P4EIbgdTuSyf4pVWZ3a</value>
+        </property>
+    </configuration>

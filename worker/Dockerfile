@@ -1,6 +1,6 @@
-FROM bde2020/spark-base:2.4.4-hadoop2.7
+FROM matheusnd/spark-base:2.4.4-hadoop2.7-awslib
 
-LABEL maintainer="Gezim Sejdiu <g.sejdiu@gmail.com>, Giannis Mouchakis <gmouchakis@gmail.com>"
+LABEL maintainer="Matheus Dantas <matheus.nery@gmail.com>"
 
 COPY worker.sh /
 
